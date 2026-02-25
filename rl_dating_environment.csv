@@ -1,0 +1,11 @@
+user_id,age,gender,target_gender,anxiety,avoidance,interests
+1,36,Male,Female,3.19,2.49,"['Gaming', 'Photography', 'Outdoors', 'Music']"
+2,23,Female,Male,6.11,4.76,"['Outdoors', 'Travel', 'Cooking', 'Music', 'Tech']"
+3,28,Male,Female,4.54,3.05,"['Fitness', 'Outdoors', 'Reading']"
+4,20,Female,Male,4.01,3.28,"['Tech', 'Cooking', 'Fitness']"
+5,21,Female,Male,2.61,3.9,"['Photography', 'Tech', 'Gaming', 'Cooking']"
+6,35,Female,Male,3.9,1.0,"['Travel', 'Art', 'Reading']"
+7,32,Male,Female,5.35,3.03,"['Music', 'Art', 'Cooking', 'Fitness']"
+8,32,Male,Female,2.89,2.46,"['Art', 'Gaming', 'Reading', 'Outdoors', 'Photography']"
+9,31,Female,Male,3.16,2.96,"['Gaming', 'Fitness', 'Outdoors', 'Cooking', 'Travel']"
+10,30,Male,Female,4.67,4.78,"['Outdoors', 'Cooking', 'Tech', 'Art', 'Gaming']"

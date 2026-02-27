@@ -1,9 +1,5 @@
 # Project MatchMind: A Hybrid Deep Reinforcement Learning Approach to Psychologically-Informed Matchmaking
 
-**Student Name:** Hirusha  
-**Module:** [Insert Module Name / Code]  
-**Date:** [Insert Current Date]  
-
 ---
 
 ## Table of Contents
